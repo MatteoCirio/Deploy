@@ -18,7 +18,7 @@ namespace SumTest
         public void TestSomma2()
         {
             var sum = new Sum();
-            int a = 10;
+            int a = 20;
             int b = 15;
             int result = sum.Somma(a, b);
 
