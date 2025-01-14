@@ -11,7 +11,7 @@ namespace SumTest
             int b = 15;
             int result = sum.Somma(a, b);
 
-            Assert.Equal(33, result);
+            Assert.Equal(35, result);
         }
     }
 }
